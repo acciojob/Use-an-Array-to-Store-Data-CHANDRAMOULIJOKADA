@@ -1,1 +1,1 @@
-
+let yourArray = ["string",33,true,0.34,"sdfn"];
